@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+   - export DEPLOYPATH=//home/gevreaza/repositories/MBP204/
+   - /bin/cp index.html $DEPLOYPATH
+   - /bin/cp style.css $DEPLOYPATH

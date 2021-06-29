@@ -41,7 +41,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background: radial-gradient(#ff2211, #720505);
+    background: radial-gradient(#ff2211, #af1515);
     padding: 20px;
     width: 100%;
     z-index: 2;
